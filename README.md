@@ -1,24 +1,12 @@
-# ShopHub 🚀
+# SuperShop 🚀
 
-**ShopHub** is a modern web application designed to help users manage, showcase, and sell their products efficiently.  
+**SuperShop** is a modern web application designed to help users manage, showcase, and sell their products efficiently.  
 The platform allows users to create, view, and delete products while providing analytics, inventory tracking, and a smooth user experience.
-
-![ProductHub Screenshot](./Screenshot1.png)
-
----
-
-![ProductHub Screenshot](./Screenshot2.png)
-
-🔗 **Live Demo:** https://shophub-by-rakeeb.vercel.app/
-
-🔗 **GitHub Repository (Client):** https://github.com/rakeebhasan09/ShopHubClient.git
-
-🔗 **GitHub Repository (Server):** https://github.com/rakeebhasan09/ShopHub-server.git
 
 ### Frontend
 
 ```bash
-git clone https://github.com/rakeebhasan09/ShopHubClient.git
+git clone https://github.com/rakeebhasan09/SuperShop-Client.git
 npm install
 // you need to set some environt variables
 npm run dev
